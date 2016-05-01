@@ -1,0 +1,6 @@
+spring:
+    datasource:
+        url: jdbc:h2:mem:kiosk-web;DB_CLOSE_DELAY=-1
+        name:
+        username: kiosk-web
+        password:

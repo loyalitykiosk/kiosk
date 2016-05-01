@@ -1,0 +1,6 @@
+spring:
+    datasource:
+        url: jdbc:mysql://localhost:3306/kiosk-wev?useUnicode=true&characterEncoding=utf8&useSSL=false
+        name:
+        username: kiosk-web
+        password:
